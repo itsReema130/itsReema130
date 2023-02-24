@@ -20,7 +20,7 @@
 <h3>:woman_technologist: About Me :</h3> 
 I am Reema alhammadi a Data Scientist / Full Stack python Developer from Saudi Arabia.
 
-- 🔭 I’m currently working on Data scince project
+- 🔭 I’m currently working on React Native Projects 
 - 🌱 I’m currently learning entrepreneurship
 - 💬 Ask me about Any thing
 - 📫 How to reach me: reema.sh2211@gmail.com
