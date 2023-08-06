@@ -14,15 +14,15 @@
 <div align="center"><img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/></div>
 
 <h1>
-  hey there !
+  Hey There!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <h3>:woman_technologist: About Me :</h3> 
-I am Reema alhammadi a Data Scientist / Full Stack python Developer from Saudi Arabia.
+This is Reema al-Hammadi a Frontend from Saudi Arabia.
 
 - 🔭 I’m currently working on React Native Projects 
-- 🌱 I’m currently learning entrepreneurship
-- 💬 Ask me about Any thing
+- 🌱 I’m currently learning React TS!
+- 💬 Ask me about Anything
 - 📫 How to reach me: reema.sh2211@gmail.com
 
 ### :hammer_and_wrench: Languages and Tools :
