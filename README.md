@@ -20,11 +20,6 @@
 <h3>:woman_technologist: About Me :</h3> 
 This is Reema al-Hammadi a Frontend from Saudi Arabia.
 
-- 🔭 I’m currently working on React Native Projects 
-- 🌱 I’m currently learning React TS!
-- 💬 Ask me about Anything
-- 📫 How to reach me: reema.sh2211@gmail.com
-
 ### :hammer_and_wrench: Languages and Tools :
 <div align="center">
 	  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
