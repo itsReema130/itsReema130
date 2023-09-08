@@ -18,7 +18,7 @@
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=itsReema130)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=itsReema130&theme=dark)](https://git.io/streak-stats)
 
 
 
