@@ -1,24 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://i.pinimg.com/originals/02/49/ef/0249efe4cc8e3c20094fc2d20aa58912.gif" width="500"/>
-</div>
 
-<div id="badges" align="center">
-  <a href="www.linkedin.com/in/reemalhammadi">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/rhammadi13">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-<div align="center"><img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/></div>
-
-<h1>
-  Hey There!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-<h3>:woman_technologist: About Me :</h3> 
-This is Reema al-Hammadi a Frontend from Saudi Arabia.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div align="center">
