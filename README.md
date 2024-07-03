@@ -14,9 +14,13 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>
 </div>
+<br/>
+<br/>
+<br/>
 
-### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=itsReema130&theme=dark)](https://git.io/streak-stats)
+###  My Stats :fire: :
+[![GitHub Streak](https://streak-stats.demolab.com?user=itsreema130&theme=dracula&hide_border=true&exclude_days=Fri%2CSat)](https://git.io/streak-stats)
+
 
 
 
